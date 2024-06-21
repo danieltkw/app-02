@@ -1,19 +1,27 @@
 {
   "pages": [
     {
-      "id": "Dashboard2",
+      "id": "Dashboard3",
       "isDefault": false
     },
     {
-      "id": "Dashboard",
+      "id": "Orders",
+      "isDefault": false
+    },
+    {
+      "id": "Customers",
+      "isDefault": false
+    },
+    {
+      "id": "Products",
+      "isDefault": false
+    },
+    {
+      "id": "Returns",
       "isDefault": false
     },
     {
       "id": "Authentication",
-      "isDefault": false
-    },
-    {
-      "id": "Page1",
       "isDefault": true
     }
   ],

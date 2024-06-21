@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "initializeTranslations",
+    "pageId": "Authentication",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Authentication_initializeTranslations",
+  "deleted": false,
+  "gitSyncId": "667427c00dbf37519a0ae2b4_95b7d1ae-4729-4e2d-9a81-2894708d04a4"
+}

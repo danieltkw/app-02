@@ -1,0 +1,32 @@
+{
+  "unpublishedCollection": {
+    "name": "f_bkp",
+    "pageId": "Authentication",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "bcrypt",
+        "value": "window.dcodeIO ? window.dcodeIO.bcrypt : null"
+      },
+      {
+        "name": "jwt",
+        "value": "window.jsonwebtoken ? window.jsonwebtoken : null"
+      },
+      {
+        "name": "translations",
+        "value": "{}"
+      },
+      {
+        "name": "defaultTab",
+        "value": "'Sign In'"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Authentication_f_bkp",
+  "deleted": false,
+  "gitSyncId": "667427c00dbf37519a0ae2b4_213e773a-b2cf-46e9-be58-3b70d585aad4"
+}
