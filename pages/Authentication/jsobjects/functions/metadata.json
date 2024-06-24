@@ -6,7 +6,12 @@
     "pluginType": "JS",
     "actions": [],
     "archivedActions": [],
-    "variables": [],
+    "variables": [
+      {
+        "name": "defaultTab",
+        "value": "'Sign In'"
+      }
+    ],
     "userPermissions": []
   },
   "id": "Authentication_functions",

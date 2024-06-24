@@ -7,8 +7,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 36,
-    "bottomRow": 40,
+    "topRow": 20,
+    "bottomRow": 24,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -17,7 +17,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 3.7119140625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 4,
+    "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -26,10 +26,10 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Shipped",
+    "text": "Enviados",
     "key": "e91frck28i",
     "isDeprecated": false,
-    "rightColumn": 32,
+    "rightColumn": 27,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "ngwo4qhhbc",
@@ -44,6 +44,6 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "maxDynamicHeight": 9000,
     "originalBottomRow": 43,
-    "fontSize": "1rem",
+    "fontSize": "0.875rem",
     "minDynamicHeight": 4
 }

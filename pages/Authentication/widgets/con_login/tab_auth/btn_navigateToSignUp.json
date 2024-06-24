@@ -26,11 +26,11 @@
         {"key": "buttonColor"},
         {"key": "borderRadius"}
     ],
-    "text": "Don't have an account? Sign Up",
+    "text": "Sem cadastro? Registre-se",
     "isDisabled": false,
     "key": "w5le6pkfax",
     "isDeprecated": false,
-    "rightColumn": 58,
+    "rightColumn": 61,
     "isDefaultClickDisabled": true,
     "widgetId": "6mx5oq7on0",
     "minWidth": 120,

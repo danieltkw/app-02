@@ -25,10 +25,10 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Dashboard",
+    "text": "Painel demonstrativo",
     "key": "eo9oc7ple7",
     "isDeprecated": false,
-    "rightColumn": 16,
+    "rightColumn": 57,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "5w8imi8qyy",
@@ -44,7 +44,7 @@
     "originalTopRow": 3,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 8,
+    "originalBottomRow": 15,
     "fontSize": "1.875rem",
     "minDynamicHeight": 4
 }

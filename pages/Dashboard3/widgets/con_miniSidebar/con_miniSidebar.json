@@ -10,8 +10,8 @@
         "parent",
         "group"
     ],
-    "topRow": 27,
-    "bottomRow": 72,
+    "topRow": 26,
+    "bottomRow": 52,
     "parentRowSpace": 10,
     "type": "CONTAINER_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "animateLoading": true,
     "parentColumnSpace": 18.1875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 40,
+    "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "backgroundColor"}
@@ -29,7 +29,7 @@
         "widgetName": "Canvas1Copy1Copy",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 450,
+        "bottomRow": 260,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -59,8 +59,8 @@
     "key": "5vi4502ybz",
     "backgroundColor": "{{appsmith.theme.colors.primaryColor}}",
     "isDeprecated": false,
-    "rightColumn": 61,
-    "dynamicHeight": "FIXED",
+    "rightColumn": 63,
+    "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "lv6z250pkc",
     "containerStyle": "card",
     "isVisible": true,
@@ -68,9 +68,9 @@
     "parentId": "0",
     "renderMode": "CANVAS",
     "isLoading": false,
-    "originalTopRow": 27,
+    "originalTopRow": 26,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 72,
-    "minDynamicHeight": 4
+    "originalBottomRow": 52,
+    "minDynamicHeight": 10
 }

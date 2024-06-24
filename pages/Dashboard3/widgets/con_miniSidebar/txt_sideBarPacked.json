@@ -7,8 +7,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 31,
-    "bottomRow": 35,
+    "topRow": 16,
+    "bottomRow": 20,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -17,7 +17,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 3.7119140625,
     "dynamicTriggerPathList": [],
-    "leftColumn": 4,
+    "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -26,10 +26,10 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Packed",
+    "text": "Embalados",
     "key": "e91frck28i",
     "isDeprecated": false,
-    "rightColumn": 32,
+    "rightColumn": 28,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "nvm078w6se",
@@ -44,6 +44,6 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "maxDynamicHeight": 9000,
     "originalBottomRow": 37,
-    "fontSize": "1rem",
+    "fontSize": "0.875rem",
     "minDynamicHeight": 4
 }

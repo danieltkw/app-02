@@ -14,7 +14,7 @@
     "overflow": "NONE",
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "dynamicTriggerPathList": [],
-    "leftColumn": 15,
+    "leftColumn": 17,
     "dynamicBindingPathList": [
         {"key": "fontFamily"},
         {"key": "borderRadius"},
@@ -26,7 +26,7 @@
     "text": "{{utils.dashboardMetrics.data.fulfilledOrders}}",
     "key": "xx7obgmjct",
     "isDeprecated": false,
-    "rightColumn": 25,
+    "rightColumn": 27,
     "textAlign": "LEFT",
     "dynamicHeight": "FIXED",
     "widgetId": "kwrdcb7j6l",

@@ -10,14 +10,14 @@
         "visuals",
         "visualisations"
     ],
-    "topRow": 73,
-    "bottomRow": 108,
+    "topRow": 93,
+    "bottomRow": 117,
     "parentRowSpace": 10,
     "type": "CHART_WIDGET",
     "hideCard": false,
     "chartData": {"03py3mwpje": {
         "data": "{{utils.revenueChart.data}}",
-        "seriesName": "Revenue"
+        "seriesName": "Rendimento"
     }},
     "animateLoading": true,
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
@@ -172,7 +172,7 @@
     "key": "o2nqfsm0gz",
     "showDataPointLabel": false,
     "isDeprecated": false,
-    "rightColumn": 61,
+    "rightColumn": 64,
     "widgetId": "8uphlly71g",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "minWidth": 450,
@@ -184,10 +184,10 @@
     "isLoading": false,
     "responsiveBehavior": "fill",
     "yAxisName": "",
-    "originalTopRow": 73,
-    "chartName": "Revenue ($)",
+    "originalTopRow": 93,
+    "chartName": "Rendimento (\u20ac)",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "xAxisName": "",
-    "originalBottomRow": 108,
+    "originalBottomRow": 117,
     "chartType": "LINE_CHART"
 }

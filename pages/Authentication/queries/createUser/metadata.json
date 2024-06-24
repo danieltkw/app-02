@@ -18,7 +18,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "INSERT INTO public.\"user_auth\" (\"first_name\", \"last_name\", \"email\", \"password_hash\", \"role\")\nVALUES ('{{inp_firstName.text}}', '{{inp_lastName.text}}', '{{inp_registerEmail.text}}', {{this.params.passwordHash}}, 'Admin')\nRETURNING *;\n",
+      "body": "INSERT INTO public.\"user_auth\" (\"first_name\", \"last_name\", \"email\", \"password_hash\", \"role\")\nVALUES ('{{inp_firstName.text}}', '{{inp_lastName.text}}', '{{inp_registerEmail.text}}', '{{this.params.passwordHash}}', 'Admin')\nRETURNING *;\n\n",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
