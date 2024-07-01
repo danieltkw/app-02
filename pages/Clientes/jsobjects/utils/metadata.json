@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "667427c00dbf37519a0ae2b4_3db0fcd8-6998-4d35-af1e-425636603add",
+  "id": "Clientes_utils",
   "unpublishedCollection": {
     "name": "utils",
     "pageId": "Clientes",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Clientes_utils",
-  "deleted": false,
-  "gitSyncId": "667427c00dbf37519a0ae2b4_3db0fcd8-6998-4d35-af1e-425636603add"
+    "variables": []
+  }
 }

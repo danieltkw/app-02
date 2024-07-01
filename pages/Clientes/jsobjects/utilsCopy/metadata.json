@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "667427c00dbf37519a0ae2b4_4b274e94-ec32-4713-8d17-53e529626807",
+  "id": "Clientes_utilsCopy",
   "unpublishedCollection": {
     "name": "utilsCopy",
     "pageId": "Clientes",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Clientes_utilsCopy",
-  "deleted": false,
-  "gitSyncId": "667427c00dbf37519a0ae2b4_4b274e94-ec32-4713-8d17-53e529626807"
+    "variables": []
+  }
 }
