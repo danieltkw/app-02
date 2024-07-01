@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 16,
+  "bottomRow": 17,
   "displayName": "Text",
   "dynamicBindingPathList": [
     {
@@ -28,14 +28,14 @@
   "leftColumn": 1,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
-  "originalBottomRow": 16,
+  "originalBottomRow": 17,
   "originalTopRow": 12,
   "overflow": "NONE",
   "parentColumnSpace": 10.40625,
   "parentId": "r4f0j7nibv",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
-  "rightColumn": 7,
+  "rightColumn": 11,
   "searchTags": [
     "typography",
     "paragraph",
@@ -45,7 +45,7 @@
   "text": "Email",
   "textAlign": "LEFT",
   "textColor": "#52525b",
-  "topRow": 12,
+  "topRow": 13,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
